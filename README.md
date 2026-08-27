@@ -1,7 +1,7 @@
 # Track 1 - Day 25: AI Pricing, GTM & Evidence Lab
 
 **Học viên:** Đỗ Tú Anh  
-**Mã học viên:** 2A202601272
+**Mã học viên:** 2A202601272  
 **Dự án:** CodeGuardian AI (AI Code Reviewer)
 
 ---
