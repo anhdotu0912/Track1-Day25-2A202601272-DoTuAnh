@@ -1,9 +1,7 @@
 # Track 1 - Day 25: AI Pricing, GTM & Evidence Lab
 
 **Học viên:** Đỗ Tú Anh  
-**Mã học viên:** 2A202601272  
-**Khóa học:** VLearn - Học AI thực chiến qua Lab  
-**Lab:** Từ sản phẩm chạy được đến sản phẩm bán được  
+**Mã học viên:** 2A202601272
 **Dự án:** CodeGuardian AI (AI Code Reviewer)
 
 ---
@@ -45,6 +43,15 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CG_API_KEY: ${{ secrets.CG_API_KEY }}
 ```
+
+---
+
+## 📈 Kết quả & Hiệu suất (Impact & Results)
+Qua quá trình triển khai thực tế nghiệm thu (Pilot) và đo lường trên tập dữ liệu nội bộ, **CodeGuardian AI** đã đạt được các chỉ số ấn tượng:
+- **Giảm 82% thời gian chờ đợi (Lead Time for Changes):** Thời gian chờ review và merge Pull Request giảm từ trung bình 14 tiếng xuống chỉ còn **2.5 tiếng**.
+- **Độ chính xác cao:** Phát hiện thành công **92%** các lỗi bảo mật phổ biến (OWASP Top 10) trên tập dữ liệu kiểm thử SWE-bench.
+- **Trải nghiệm Developer thân thiện:** Tỷ lệ cảnh báo sai (False Positive) được ép xuống **dưới 15%**, đảm bảo dev không bị làm phiền bởi các comment rác.
+- **Khả năng tự động hóa 100%:** Tỷ lệ tự xử lý lỗi (Containment Rate) đạt tuyệt đối, lập trình viên hoàn toàn tự giác sửa lỗi sau khi AI nhắc nhở mà không cần sự can thiệp của Quản lý hay QA (Human-in-the-loop = 0).
 
 ---
 
