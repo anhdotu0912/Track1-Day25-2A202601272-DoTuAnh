@@ -1,0 +1,8 @@
+Chỉ số,Giá trị,Ghi chú / Công thức
+Số PR trung bình / Dev / Tháng,20,Dữ liệu hành vi chuẩn
+Total Cost / Dev / Tháng,1.60,20 * $0.08 (Tab 2)
+Giá sàn (Cost x 3),4.80,Đảm bảo Gross Margin tối thiểu 66%
+Giá trần (Value-based),20.00,Neo theo Copilot hoặc Lương
+Giá bán đề xuất,15.00,Quyết định cuối cùng
+Lợi nhuận gộp / Dev / Tháng,13.40,$15.00 - $1.60
+Gross Margin (%),89.33%,($15.00 - $1.60)/$15.00

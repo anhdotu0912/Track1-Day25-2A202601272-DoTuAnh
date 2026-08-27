@@ -1,0 +1,7 @@
+Chỉ số,Giá trị
+Attribution,Cao (Có report chi tiết số lỗi bắt được và số bug được resolved)
+Autonomy,Trung bình (Vẫn cần dev click Merge)
+Benchmark 1,CodiumAI PR-Agent ($19/dev/tháng)
+Benchmark 2,GitHub Copilot ($19/user/tháng)
+Quyết định Value Metric,"Hybrid: $/Seat/Tháng + Giới hạn cứng 40 PR/tháng"
+Lý do,"Theo chuẩn B2B DevTools để dễ duyệt. Giới hạn 40 PR đảm bảo Gross Margin không bao giờ tụt dưới 86% dù là Heavy User."

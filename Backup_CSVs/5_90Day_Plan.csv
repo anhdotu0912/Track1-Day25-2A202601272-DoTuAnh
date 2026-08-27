@@ -1,0 +1,7 @@
+Hạng mục,Chi tiết,Deadline & PIC
+Evidence 1: Eval Results,"Tỷ lệ False Positive < 15% (SWE-bench), bắt 92% OWASP Top 10.",Trần Anh (AI Engineer) - 15/09/2026
+Evidence 2: Risk Checklist,"Zero Data Retention (không dùng code train), SOC2.",Lê Bảo (CTO) - 20/09/2026
+Evidence 3: Pilot Report,Giảm 14h -> 2.5h chờ merge PR.,Tú Anh (Product) - 30/09/2026
+Tháng 1 (Giai đoạn Học),"Build & List lên GitHub Marketplace. KPI: 50 installs để lấy data hành vi user.",PIC: Growth Team
+Tháng 2 (Đòn Bẩy),"Phân phối cộng đồng Dev (Reddit, HN). KPI: 300 installs.",PIC: Growth Team
+Tháng 3 (Mở Rộng),"Optimize trial email sequence. KPI: Chốt 20 paid accounts (MRR $3k).",PIC: Sales & Product

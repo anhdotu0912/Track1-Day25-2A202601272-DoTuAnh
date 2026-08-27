@@ -1,0 +1,9 @@
+Thành phần chi phí,Cost / Job ($),Ghi chú
+LLM API Input (có Caching),0.04,"$3/1M input, tiết kiệm 50% nhờ caching"
+LLM API Output,0.015,$15/1M output
+Infra & DB,0.005,"Webhook, DB"
+HITL (Khách tự review),0.0,"AI làm tool, khách tự quyết định merge -> $0"
+Retry (Rate limit, errors),0.006,10% tỷ lệ chạy lại
+Overhead (Support),0.014,Chia đều chi phí support
+TỔNG COST/JOB,0.08,Chi phí để AI review xong 1 PR
+Breakeven Containment,100%,"Với AI Code Reviewer, khách tự chịu phí sửa lỗi (HITL=0), nên containment rate = 100%"

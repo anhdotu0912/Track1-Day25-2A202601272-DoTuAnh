@@ -1,0 +1,9 @@
+Hạng mục,Chi tiết
+Sản phẩm,AI Code Reviewer
+Người ký duyệt,CTO / VP of Engineering
+Nguồn ngân sách,DevTools / SaaS Budget
+Định nghĩa Job,1 Pull Request được review hoàn tất
+Value Metric,Hybrid ($/Seat/Tháng + Cap số PR)
+Lý do (Decision Note 1),Khách hàng quen mua theo Seat (như GitHub Copilot)
+Lý do (Decision Note 2),Cap số PR giúp bảo vệ GM khỏi heavy users
+Lý do (Decision Note 3),Giá trị ROI dễ chứng minh qua số giờ dev tiết kiệm được

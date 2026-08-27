@@ -1,0 +1,10 @@
+Section,Điền gì,Giá trị,Ghi chú
+S1. Định nghĩa Job,1 câu,1 Pull Request được review hoàn tất,Khách hàng B2B công nhận đây là đơn vị tạo ra giá trị.
+S2. Khối lượng,Số job/tháng & Containment,"20 Job/Dev/tháng. Containment = 100%.",AI chỉ review - dev tự quyết định merge (không tốn HITL bên bán).
+S3. LLM,Giá token & số token,"Sonnet 5: Input $2/1M, Output $10/1M. Cache=0.1x.","Cập nhật giá 27/08/2026. Tokens: 25k in, 1k out. Cost = $0.033/PR."
+S4. Speech (nếu có),Giá STT/TTS,Không có,Bỏ qua
+S5. Infra,$/job,$0.005 / PR,Chi phí Webhook và Vector DB.
+S6. Retry,% chạy lại,10%,Bù hao rate limit. Cost = $0.004 / PR.
+S7. HITL,Biến thể A/B - % QA - $/giờ,"Biến thể A (Khách tự escalate). Cost = $0.0","Sản phẩm Copilot - không cam kết giải quyết thay dev."
+S8. Overhead,R&D + sales phân bổ,$0.01 / PR,Phân bổ R&D và support.
+TỔNG COST / JOB,,$0.052,

@@ -1,0 +1,4 @@
+Tài sản bằng chứng,Chi tiết thực tế
+Eval Results (Đánh giá chất lượng),"Tỷ lệ False Positive < 15% trên SWE-bench. Bắt 92% lỗi OWASP Top 10."
+Risk Checklist (Bảo mật),"Cam kết Zero Data Retention (không dùng code train LLM). Đạt SOC2 Type II."
+Pilot Report (Case study),"Giảm thời gian chờ merge PR từ 14h -> 2.5h. Giảm 30% bug rò rỉ ra QA."

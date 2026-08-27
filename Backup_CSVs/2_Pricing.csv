@@ -1,0 +1,8 @@
+Chỉ số,Giá trị,Ghi chú
+Cost / Job,$0.052,Lấy từ Tab 1
+Cost / Dev / Tháng,$1.04,Giả định 20 PR/tháng (20 * 0.052)
+Giá sàn (Floor Price),$3.12,Để Gross Margin >= 66% (3x Cost)
+Giá trần (Ceiling Price),$19.00,Neo theo Copilot hoặc $250 lương dev tiết kiệm
+Giá bán (Đề xuất),$15.00,/ User / Tháng
+Gross Margin (%),93.06%,(15 - 1.04) / 15. Biên lợi nhuận cực tốt.
+Breakeven Containment,N/A (Biến thể A),"Vì áp dụng Biến thể A (HITL=$0), mô hình lợi nhuận không gãy theo Containment. Tuy nhiên, nếu False Positive > 15%, mô hình gãy do User Churn (Hủy gói)."
