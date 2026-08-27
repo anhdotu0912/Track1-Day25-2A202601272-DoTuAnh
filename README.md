@@ -1,7 +1,7 @@
 # Track 1 - Day 25: AI Pricing, GTM & Evidence Lab
 
 **Học viên:** Đỗ Tú Anh  
-**Mã học viên:** 2A202601272
+**Mã học viên:** 2A202601272  
 **Khóa học:** VLearn - Học AI thực chiến qua Lab  
 **Lab:** Từ sản phẩm chạy được đến sản phẩm bán được
 
