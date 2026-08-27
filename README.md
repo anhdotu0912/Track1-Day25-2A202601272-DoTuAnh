@@ -3,13 +3,14 @@
 **Học viên:** Đỗ Tú Anh  
 **Mã học viên:** 2A202601272  
 **Khóa học:** VLearn - Học AI thực chiến qua Lab  
-**Lab:** Từ sản phẩm chạy được đến sản phẩm bán được
+**Lab:** Từ sản phẩm chạy được đến sản phẩm bán được  
+**Dự án:** CodeGuardian AI (AI Code Reviewer)
 
 ---
 
-## 🎯 Giới thiệu Dự án: AI Code Reviewer
+## 🎯 Giới thiệu Dự án: CodeGuardian AI (AI Code Reviewer)
 
-Repository này chứa toàn bộ hồ sơ định giá, mô hình tài chính và chiến lược Go-To-Market (GTM) cho sản phẩm **AI Code Reviewer**. Đây không phải là một chatbot AI chung chung, mà là một công cụ quy trình chuyên dụng được thiết kế riêng cho các dự án Web App (Typescript/React). Sản phẩm tự động đọc Pull Request (PR) và phát hiện các lỗi logic nghiệp vụ, lỗi hydration trong React, cũng như các lỗ hổng bảo mật sơ đẳng ngay trên giao diện GitHub.
+Repository này chứa toàn bộ hồ sơ định giá, mô hình tài chính và chiến lược Go-To-Market (GTM) cho sản phẩm **CodeGuardian AI**. Đây không phải là một chatbot AI chung chung, mà là một công cụ quy trình chuyên dụng được thiết kế riêng cho các dự án Web App (Typescript/React). Sản phẩm tự động đọc Pull Request (PR) và phát hiện các lỗi logic nghiệp vụ, lỗi hydration trong React, cũng như các lỗ hổng bảo mật sơ đẳng ngay trên giao diện GitHub.
 
 **Định nghĩa "1 Job" (Đơn vị tạo ra giá trị lõi):** 1 Pull Request được hệ thống AI review hoàn tất (đã phân tích mã nguồn, phát sinh comment cảnh báo lỗi hoặc tự động approve).
 
